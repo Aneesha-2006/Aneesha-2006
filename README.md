@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Aneesha
 
-<!--
-**Aneesha-2006/Aneesha-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 I am currently pursuing a Diploma in Computer Engineering
+- 💻 Interested in software development and web technologies
+- 🎯 Passionate about learning new tech skills and building real-world projects
+- 💡 Always curious to explore coding and problem-solving
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Programming Languages: C, Python, JavaScript
+- Web Development: HTML, CSS (learning React)
+- Tools: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Interests
+- Web Development 🌐
+- App Development 📱
+- AI & Technology 🤖
+- Open Source Contribution 🌍
+
+⚡ Fun fact: I love learning by building small projects!
